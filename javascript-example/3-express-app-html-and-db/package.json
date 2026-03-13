@@ -13,6 +13,6 @@
   "dependencies": {
     "express": "^4.19.2",
     "openai": "^4.41.0",
-    "sqlite3": "^5.1.7"
+    "sqlite3": "^6.0.1"
   }
 }
